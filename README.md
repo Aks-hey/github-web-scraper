@@ -36,4 +36,6 @@ The project requires the following Python libraries, which are listed in the req
 
   
 To install these dependencies, run:
+``` bash
 pip install -r requirements.txt
+```

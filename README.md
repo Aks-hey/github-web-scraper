@@ -24,3 +24,16 @@ To get started with this project, clone the repository and install the required 
 git clone https://github.com/yourusername/yourrepository.git
 cd yourrepository
 pip install -r requirements.txt
+```
+
+
+### Dependencies
+The project requires the following Python libraries, which are listed in the requirements.txt file:
+
+- BeautifulSoup - To parse through the webpages.
+- requests - To download the webpage.
+- pandas - To handle data and save it into CSV files.
+
+  
+To install these dependencies, run:
+pip install -r requirements.txt
